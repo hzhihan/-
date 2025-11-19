@@ -1,0 +1,2 @@
+# App Storage Manager has no external dependencies
+# It uses only Python standard library (Python 3.7+)
