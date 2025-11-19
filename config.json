@@ -1,0 +1,9 @@
+{
+  "unused_days_threshold": 30,
+  "rarely_used_threshold": 7,
+  "min_usage_count": 5,
+  "junk_size_threshold_mb": 100,
+  "auto_pause_enabled": true,
+  "auto_delete_enabled": false,
+  "data_file": "app_data.json"
+}
